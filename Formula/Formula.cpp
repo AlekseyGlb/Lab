@@ -3,7 +3,7 @@
 int main() {
 	
 	const double length = 5.0;
-	const double width = 3.5; //Змінено відповідно завдання
+	const double width = 4.5; //Змінено відповідно завдання
 	const double price = 250.0;
 	const double area = length * width; 
 	const double perimeter = 2.0 * (length + width); 
